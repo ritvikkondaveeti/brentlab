@@ -1,0 +1,18 @@
+/* Pitt royal blue header with white text */
+#navbar-main,
+.navbar {
+  background-color: #003594 !important;
+}
+
+#navbar-main .navbar-brand,
+#navbar-main .nav-link,
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+#navbar-main .nav-link:hover,
+.navbar .nav-link:hover,
+#navbar-main .navbar-brand:hover {
+  color: #FFB81C !important; /* Pitt gold */
+}
