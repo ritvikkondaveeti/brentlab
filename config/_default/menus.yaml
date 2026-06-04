@@ -10,10 +10,10 @@ main:
     weight: 20
   - name: People
     url: people
-    weight: 30
+    weight: 40
   - name: Join Us
     url: join
-    weight: 40
+    weight: 50
   - name: Variants
     url: variants
-    weight: 50
+    weight: 30

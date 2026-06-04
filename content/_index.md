@@ -10,7 +10,7 @@ sections:
       title: |
         The Brent Lab
       image:
-        filename: welcome.jpg
+        filename: bst.jpg
       text: |
         **Mechanisms of neurodegeneration in ALS and related disorders**
 
