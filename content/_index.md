@@ -8,65 +8,35 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        The Brent Lab
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
+        **Mechanisms of neurodegeneration in ALS and related disorders**
+
+        University of Pittsburgh Department of Neurology
+
+        The Brent Lab studies how failures in axonal transport and nuclear protein function lead to the selective death of motor neurons in amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). We combine cell biology, patient-derived models, and clinical variant discovery to understand why motor neurons are uniquely vulnerable — and to identify new targets for treatment.
+
+        A core goal of our laboratory is the functional validation of genetic variants found in patients with ALS and related neurodegenerative diseases. If you or a family member carries a genetic variant of uncertain significance in an ALS-associated gene, we would like to hear from you.
+
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      title: Research
+      subtitle:
+      text: |
+        #### KIF5A and axonal transport
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
+        How do mutations in KIF5A, the molecular motor that powers axonal transport, cause ALS and related motor neuron diseases — and why do different mutations in the same gene produce different clinical outcomes?
+
+        #### Stress-gated nuclear retention
+
+        How do ALS-associated nuclear proteins lose their function under cellular stress, and why does this process selectively affect motor neurons?
+
+        #### Patient variant validation
+
+        Which genetic variants found in patients with ALS are truly disease-causing? We take variants from our clinic to the bench.
     design:
-      view: citation
       columns: '1'
 
   - block: markdown
@@ -74,7 +44,9 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./research/" cta_text="Our Research →" %}}
+        {{% cta cta_link="./join/" cta_text="Join the Lab →" %}}
+        {{% cta cta_link="./variants/" cta_text="Report a Variant →" %}}
     design:
       columns: '1'
 ---
