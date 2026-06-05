@@ -1,9 +1,12 @@
-/* Pitt royal blue header with white text */
+/* Pitt royal blue header + mobile menu, white text */
 #navbar-main,
-.navbar {
+.navbar,
+#navbar-main .navbar-collapse,
+.navbar .navbar-collapse {
   background-color: #003594 !important;
 }
 
+/* Links and brand white */
 #navbar-main .navbar-brand,
 #navbar-main .nav-link,
 .navbar .navbar-brand,
@@ -11,8 +14,17 @@
   color: #ffffff !important;
 }
 
+/* Hover = Pitt gold */
 #navbar-main .nav-link:hover,
 .navbar .nav-link:hover,
 #navbar-main .navbar-brand:hover {
-  color: #FFB81C !important; /* Pitt gold */
+  color: #FFB81C !important;
+}
+
+/* White hamburger (☰) icon on mobile */
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.6) !important;
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
 }
