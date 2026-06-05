@@ -9,7 +9,7 @@ sections:
     content:
       title: Our Team
       user_groups:
-          - Principal Investigators
+          - Principal Investigator
           - Postdoctoral Associates
           - Research Staff
           - Undergraduate Researchers
