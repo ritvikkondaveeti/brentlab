@@ -12,4 +12,4 @@ user_groups:
   - Research Staff
 ---
 
-Haley manages day-to-day laboratory operations and leads experiments on KIF5A and TDP-43 variant characterization. She joined the lab at its founding in 2024.
+Haley manages day-to-day laboratory operations and leads experiments on KIF5A and TDP-43 variant characterization.
