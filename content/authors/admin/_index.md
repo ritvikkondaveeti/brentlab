@@ -30,7 +30,7 @@ email: 'brentj@pitt.edu'
 highlight_name: true
 
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 Jonathan trained in molecular cell biology and neuroscience before completing his MD and PhD. He completed residency and fellowship training in neurology and neuromuscular medicine and joined the University of Pittsburgh faculty in 2024. He runs a specialized neuromuscular clinic at UPMC and leads a research program focused on the mechanisms of motor neuron degeneration in ALS and related disorders.
