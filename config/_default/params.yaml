@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: The Brent Lab at the University of Pittsburgh studies the mechanisms of motor neuron degeneration in ALS and related disorders.'
+    twitter: 
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2026 Ritvik Kondaveeti'
     license:
       enable: true
       allow_derivatives: false
